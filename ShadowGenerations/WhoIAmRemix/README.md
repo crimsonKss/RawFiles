@@ -6,7 +6,7 @@
 
 ## Requirements:
 - [KwasTools](https://github.com/ThisKwasior/KwasTools/releases/latest)
-- raw_files.zip
+- [raw_files.zip](https://github.com/crimsonKss/RawFiles/raw/refs/heads/main/ShadowGenerations/WhoIAmRemix/raw_files.zip)
 
 ## Instructions:
 1. Extract both the raw_files and the KwasTools to any anywhere you'd like.
